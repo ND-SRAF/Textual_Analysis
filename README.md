@@ -1,2 +1,1 @@
-# Textual_Analysis
-ND-SRAF Textual Analysis Programs
+# The Notre Dame Software Repository for Accounting and Finance has moved to:  http://sraf.nd.edu
